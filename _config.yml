@@ -1,5 +1,9 @@
 # The Site Configuration
 
+# Deployment
+#host: 0.0.0.0
+#port: 8000
+
 # Import the theme
 theme: jekyll-theme-chirpy
 
